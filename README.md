@@ -10,10 +10,13 @@
 - 🌱 I’m currently learning **ReactJS , ExpressJS** - 👨‍💻 All of my projects are
 available at
 <!-- [https://deeptanu20portfolio.netlify.app](https://deeptanu20portfolio.netlify.app) -->
--👯 I’m looking to collaborate on **Projects related to web development** - 💬
-Ask me about **javascript,Python** - 📫 How to reach me
-**parthadas34870@gmail.com**
-
+<ul>
+<li>👯 I’m looking to collaborate on **Projects related to web development** - 💬</li>
+<li>Ask me about **javascript,Python** </li> 
+<li>📫 How to reach me
+  
+**parthadas34870@gmail.com**</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/partha_das_360_" target="blank"
