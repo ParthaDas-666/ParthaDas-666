@@ -7,8 +7,9 @@
   src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"
 />
 
-- 🌱 I’m currently learning **ReactJS , ExpressJS** - 👨‍💻 All of my projects are
-available at
+- 🌱 I’m currently learning **ReactJS , ExpressJS**<br>
+- 👨‍💻 All of my projects are
+available at<br>
 <!-- [https://deeptanu20portfolio.netlify.app](https://deeptanu20portfolio.netlify.app) -->
 <ul>
 <li>👯 I’m looking to collaborate on **Projects related to web development** - 💬</li>
